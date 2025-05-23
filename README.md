@@ -1,9 +1,24 @@
+## Projects
+UMC 5기 안드로이드  
+⏱️ 2023.08 ~ 2024.02  
+🛠️ Kotlin   
+[lifelog](https://github.com/Life-logger)  
+⏱️ 2024.08 ~ 2024.09  
+🛠️ Go  
+[오픈소스 응용 프로그래밍 과제](https://github.com/rnk00/opensource_project)  
+⏱️ 2024.10 ~ 2024.12    
+🛠️ C++  
+[UMC 7기 웹](https://github.com/Career-Mate)  
+⏱️ 2024.08 ~ 2025.02  
+🛠️ React    
+[컴퓨터공학 종합설계](https://github.com/sallim-me)  
+⏱️ 2025.02 ~ (진행중)   
+🛠️ React   
+
+
 ## Skills
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-
-
 
 
 
