@@ -1,3 +1,13 @@
+
+
+## Skills
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnk)](https://solved.ac/YOUR_BAEKJOON_ID)
+
 ## Projects
 UMC 5기 안드로이드  
 ⏱️ 2023.08 ~ 2024.02  
@@ -14,13 +24,3 @@ UMC 5기 안드로이드
 [컴퓨터공학 종합설계](https://github.com/sallim-me)  
 ⏱️ 2025.02 ~ (진행중)   
 🛠️ React   
-
-
-## Skills
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnk)](https://solved.ac/YOUR_BAEKJOON_ID)
-
