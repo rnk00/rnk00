@@ -18,7 +18,7 @@ UMC 5기 안드로이드
 [오픈소스 응용 프로그래밍 과제](https://github.com/rnk00/opensource_project)  
 ⏱️ 2024.10 ~ 2024.12    
 🛠️ C++  
-[UMC 7기 웹](https://github.com/Career-Mate)  
+[UMC 7기 웹 - Career Mate](https://github.com/Career-Mate)  
 ⏱️ 2024.08 ~ 2025.02  
 🛠️ React    
 [컴퓨터공학 종합설계](https://github.com/sallim-me)  
