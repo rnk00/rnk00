@@ -9,9 +9,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnk)](https://solved.ac/YOUR_BAEKJOON_ID)
 
 ## Projects
-UMC 5기 안드로이드 - 캠퍼스 노트  
-⏱️ 2023.09 ~ 2024.02  
-🛠️ Kotlin   
 [여름방학 사이드 프로젝트 - lifelog](https://github.com/Life-logger)  
 ⏱️ 2024.08 ~ 2024.09  
 🛠️ Go  
