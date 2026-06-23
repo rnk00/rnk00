@@ -21,3 +21,6 @@
 [컴퓨터공학 종합설계 - 살림](https://github.com/sallim-me)  
 ⏱️ 2025.02 ~ 2025.06
 🛠️ Typescript
+[개인 프로젝트 - dot](https://github.com/rnk00/retrospection)
+⏱️ 2026.06 ~ (진행중)
+🛠️ Vue
